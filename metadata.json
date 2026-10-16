@@ -1,0 +1,9 @@
+{
+  "name": "NovaWallet: All-in-One AI Crypto & TON Hub",
+  "description": "A sleek, secure mobile wallet featuring deep TON integration, gamified earning, AI image/video generation, and deep market intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
